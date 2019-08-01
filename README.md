@@ -1,4 +1,4 @@
-On taking on this project I had done previous work in Django as shown on my CV, my best project being my final group project at Makers. However I hadn’t spent much time on it recently because I’ve just been playing around in a sea of different technologies.
+On taking on this project I had done previous work in Django as shown on my CV, my best project being my final group project at Makers https://github.com/jamesdew12/tweet_mood. However I hadn’t spent much time on it recently because I’ve just been playing around in a sea of different technologies trying stuff in node, swift, java and ruby.
 
 Firstly I managed to get the project to a level where you can create a recipe and see them all in order. I spent some time getting myself familiar with the Django rest framework but It was fun.
 
@@ -6,14 +6,14 @@ I want to try and get across my work process so I started off by reading through
 
     1. Get/recipe - make a request that should return a list of all the recipes ordered by likes
     2. Get/recipe/?vegan=true - with return true or false depending on wether the recipe is good for vegan
-    3. Get/recipe/param
+    3. Get/recipe/param - filters by ingredient
     4. Post/recipe/id = this should be that when the
-    5. Get/recipe/
+    5. Get/recipe/ - checks recipes and its ingredients in it.
     6. Post/ingredient - creates in ingredient
     7. Post/recipe - create a recipe, If I had more time I would have spent it handling lots of errors, I.e. not a recipe, or recipe already added, etc.
-Overall I only managed to get 2 working user stories the create a recipe, and see them in order of votes, which I was happy with but also disappointed because I had some problems with a couple of other user stories as you can see in my code, which I would like to go through.
+Overall I only managed to get 2 working user stories the create a recipe, and see them in order of votes, which I was happy with but also disappointed because I had some problems with a couple of other user stories as you can see in my code, which I would like to go through. However I was happy with the way I worked in something Im not entirely familiar with, I didn't get flustered at seeing error messages and writing in stuff I don't initially know, and I didn't go down any rabbit holes in working on this project.
 
-I wanted to put as much effort as possible within the time I had available due to prior commitments and I decided to spend some time writing this as I feel at this stage of the interview process your looking for my initial thought process, and the technical side is something we will discuss in person in terms of blockers, etc, furthermore I understand docker, why its used however I would like to learn more about creating docker images, hence the reason for me.
+I wanted to put in as much effort as possible within the time I had available due to prior commitments and I decided to spend some time writing this as I feel at this stage of the interview process your looking for my initial thought process, and the technical side is something we will discuss in person in terms of blockers, etc, furthermore I understand docker, why its used however I would like to learn more about creating docker images, hence the reason for me. Overall I would have loved to do this with a bit more time, but thats mainly due to my schedule right now, and I would have loved to do it with someone, I love pair programming, its such a good way to relay ideas between one another.
 
 In addition, I like to add:
 
